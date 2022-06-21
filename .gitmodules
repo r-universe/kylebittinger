@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "abdiv"]
+	path = abdiv
+	url = https://github.com/kylebittinger/abdiv
+	shallow = true
+	registered = true
