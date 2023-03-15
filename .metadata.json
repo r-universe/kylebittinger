@@ -2,5 +2,9 @@
   {
     "package": "abdiv",
     "oncran": true
+  },
+  {
+    "package": "usedist",
+    "oncran": true
   }
 ]

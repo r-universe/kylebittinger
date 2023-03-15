@@ -8,3 +8,8 @@
 	url = https://github.com/kylebittinger/abdiv
 	shallow = true
 	registered = true
+[submodule "usedist"]
+	path = usedist
+	url = https://github.com/kylebittinger/usedist
+	shallow = true
+	registered = true
